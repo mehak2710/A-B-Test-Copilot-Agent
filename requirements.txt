@@ -1,0 +1,11 @@
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+statsmodels>=0.14
+plotly>=5.18
+streamlit>=1.50
+pydantic>=2.5
+groq>=0.9
+fpdf2>=2.7
+pytest>=8.0
+python-dotenv>=1.0
